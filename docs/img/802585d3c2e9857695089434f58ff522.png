@@ -1,0 +1,1083 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/> 
+  
+   <meta name="Robots" content="index,follow" />  
+  
+  
+  <!-- highscalability -->
+
+  <link rel="shortcut icon" href="/favicon.png" type="image/png" />
+
+  <link id="primaryStylesheet" rel="stylesheet" type="text/css" href="/display/common.css?styleId=512250&amp;RK=1552578797277&amp;CE=75"/>
+  
+  <link id="slideShowStylesheet" rel="stylesheet" type="text/css" href="/universal/styles/squarespace-gallery-slideshow.css?CE=75"/>
+  
+  
+  
+  <!-- Google Web Fonts -->
+  <script type="text/javascript">
+    	WebFontConfig = {};
+  
+   
+    (function() {
+      var wf = document.createElement('script');
+      wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+          '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+      wf.type = 'text/javascript';
+      wf.async = 'true';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(wf, s);
+    })();
+  </script>
+
+  <script type="text/javascript" src="/universal/yui/yahoo-dom-event/yahoo-dom-event.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/connection/connection_core-min.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/json/json-min.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/animation/animation-min.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/selector/selector.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/element/element.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/global.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/lightbox.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/api.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/base64.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/census.js?CE=75"></script>
+
+
+  <script type="text/javascript">
+  // <![CDATA[
+
+    Squarespace.Constants.SS_AUTHKEY = encodeURIComponent("");
+    Squarespace.Constants.WEBSITE_TITLE =  "High Scalability"; 
+    
+    
+    
+    
+    
+    Squarespace.Constants.ADMINISTRATION_UI =  false; 
+    
+    
+    
+    Squarespace.Constants.CORE_APPLICATION_DOMAIN = "squarespace.com";
+    Squarespace.Constants.CORE_V6_APPLICATION_DOMAIN = "squarespace.com";
+    Squarespace.Constants.V5_FRONTSITE = "http://www.squarespace.com";
+    Squarespace.Constants.WEBSITE_ID = "426227";
+
+    
+
+    
+
+    
+
+  // ]]>
+  </script>
+
+      <title>Page Not Found - </title>
+    <meta property="og:title" content="Page Not Found - " /> 
+  
+
+  
+
+  
+
+  <!-- End Heading -->
+
+  
+
+  <script type="text/javascript" src="/universal/scripts/cookie-min.js"></script>
+  <script type="text/javascript" src="/universal/scripts/eu-cookie-policy.js"></script>
+
+</head>
+
+<body   >
+
+  <script type="text/javascript">
+  YAHOO.util.Event.onDOMReady(function() {
+    if (document.location.href.indexOf("SSLogoutOk=true") != -1) {
+      new Squarespace.FixedPositionTip("Logout Successful", "You have been successfully logged out.", { xMargin: 15, yMargin: 15, icon: "/universal/images/helptip-info.png", orientation: "upper-right", viewportFixed: true, autoHide: 1800 }).show();
+    }
+  });
+</script>
+
+    
+
+  <script type="text/javascript">
+    YAHOO.util.Event.onDOMReady(function() { new Squarespace.Census.hit(); } );
+  </script>
+
+  <script type="text/javascript">
+    YAHOO.util.Event.addListener(document, "keyup", function (e) { if (!e) { e = event; } if (e.keyCode == 27) { document.location.href = "/login/?returnUrl=%2Fblog%2F2008%2F12%2F20%2F"; } });
+  </script>
+
+
+
+
+  
+
+  <div id="canvasWrapper"><div id="canvas">
+  
+  
+
+  <div id="pageHeaderWrapper"><div id="pageHeader">
+
+      <div id="navigationTop"><div id="navigationTop-sectionContent2191792" class="horizontalNavigationBar"><ul class="content-navigation">
+    
+  <li class="module   " id="navigationTop-moduleContentWrapper4867632">
+
+    <div id="navigationTop-moduleContent4867632">
+
+              <a id="navigationTop-moduleLink4867632" class=" " href="/" ><span>Home</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper5498762">
+
+    <div id="navigationTop-moduleContent5498762">
+
+              <a id="navigationTop-moduleLink5498762" class="offsite-link " href="https://smile.amazon.com/Explain-Cloud-Like-Im-10-ebook/dp/B0765C4SNR" onclick="this.target='new';"><span>Explain the Cloud Like I&#39;m 10</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper15178301">
+
+    <div id="navigationTop-moduleContent15178301">
+
+              <a id="navigationTop-moduleLink15178301" class=" " href="/all-time-favorites/" ><span>All Time Favorites</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper4850438">
+
+    <div id="navigationTop-moduleContent4850438">
+
+              <a id="navigationTop-moduleLink4850438" class=" " href="/blog/category/example" ><span>Real Life Architectures</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper10576114">
+
+    <div id="navigationTop-moduleContent10576114">
+
+              <a id="navigationTop-moduleLink10576114" class=" " href="http://highscalability.squarespace.com/blog/category/strategy" ><span>Strategies</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19697312">
+
+    <div id="navigationTop-moduleContent19697312">
+
+              <a id="navigationTop-moduleLink19697312" class="offsite-link " href="https://www.patreon.com/toddhoff" onclick="this.target='new';"><span>Support in Patreon</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper4850431">
+
+    <div id="navigationTop-moduleContent4850431">
+
+              <a id="navigationTop-moduleLink4850431" class=" " href="/advertising/" ><span>Advertising</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper4850400">
+
+    <div id="navigationTop-moduleContent4850400">
+
+              <a id="navigationTop-moduleLink4850400" class=" " href="/start-here/" ><span>Start Here</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper4850388">
+
+    <div id="navigationTop-moduleContent4850388">
+
+              <a id="navigationTop-moduleLink4850388" class=" " href="/contact/" ><span>contact</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper5861345">
+
+    <div id="navigationTop-moduleContent5861345">
+
+              <a id="navigationTop-moduleLink5861345" class=" " href="http://feeds.feedburner.com/HighScalability" ><span>RSS</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper18971493">
+
+    <div id="navigationTop-moduleContent18971493">
+
+              <a id="navigationTop-moduleLink18971493" class=" " href="https://twitter.com/highscal" ><span>Twitter</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper18971509">
+
+    <div id="navigationTop-moduleContent18971509">
+
+              <a id="navigationTop-moduleLink18971509" class=" " href="http://www.facebook.com/pages/Highscalability/441249225918692" ><span>Facebook</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19028422">
+
+    <div id="navigationTop-moduleContent19028422">
+
+              <a id="navigationTop-moduleLink19028422" class=" " href="https://plus.google.com/b/116966782604206517628/116966782604206517628/posts" ><span>G+</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper4847294">
+
+    <div id="navigationTop-moduleContent4847294">
+
+              <a id="navigationTop-moduleLink4847294" class=" " href="/all-posts/" ><span>All Posts</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19700860">
+
+    <div id="navigationTop-moduleContent19700860">
+
+              <a id="navigationTop-moduleLink19700860" class="offsite-link " href="https://www.amazon.com/shop/highscal" onclick="this.target='new';"><span>Amazon Store</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  </ul><br class="clearer"/></div></div>
+
+    
+        
+      
+  
+      <div id="bannerAreaWrapper"><div id="bannerArea">
+
+        
+        <div id="bannerWrapper">
+          <a href="http://highscalability.com/"><img id="banner" src="/storage/HSBannerTrebuchet.jpg" alt="High Scalability" title="High Scalability"/></a>
+        </div>  
+
+      
+      
+      </div></div>
+    
+    
+    
+
+      <div id="navigationBottom"><div id="navigationBottom-sectionContent2191792" class="horizontalNavigationBar"><ul class="content-navigation">
+    
+  <li class="module   " id="navigationBottom-moduleContentWrapper4867632">
+
+    <div id="navigationBottom-moduleContent4867632">
+
+              <a id="navigationBottom-moduleLink4867632" class=" " href="/" ><span>Home</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper5498762">
+
+    <div id="navigationBottom-moduleContent5498762">
+
+              <a id="navigationBottom-moduleLink5498762" class="offsite-link " href="https://smile.amazon.com/Explain-Cloud-Like-Im-10-ebook/dp/B0765C4SNR" onclick="this.target='new';"><span>Explain the Cloud Like I&#39;m 10</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper15178301">
+
+    <div id="navigationBottom-moduleContent15178301">
+
+              <a id="navigationBottom-moduleLink15178301" class=" " href="/all-time-favorites/" ><span>All Time Favorites</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper4850438">
+
+    <div id="navigationBottom-moduleContent4850438">
+
+              <a id="navigationBottom-moduleLink4850438" class=" " href="/blog/category/example" ><span>Real Life Architectures</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper10576114">
+
+    <div id="navigationBottom-moduleContent10576114">
+
+              <a id="navigationBottom-moduleLink10576114" class=" " href="http://highscalability.squarespace.com/blog/category/strategy" ><span>Strategies</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19697312">
+
+    <div id="navigationBottom-moduleContent19697312">
+
+              <a id="navigationBottom-moduleLink19697312" class="offsite-link " href="https://www.patreon.com/toddhoff" onclick="this.target='new';"><span>Support in Patreon</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper4850431">
+
+    <div id="navigationBottom-moduleContent4850431">
+
+              <a id="navigationBottom-moduleLink4850431" class=" " href="/advertising/" ><span>Advertising</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper4850400">
+
+    <div id="navigationBottom-moduleContent4850400">
+
+              <a id="navigationBottom-moduleLink4850400" class=" " href="/start-here/" ><span>Start Here</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper4850388">
+
+    <div id="navigationBottom-moduleContent4850388">
+
+              <a id="navigationBottom-moduleLink4850388" class=" " href="/contact/" ><span>contact</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper5861345">
+
+    <div id="navigationBottom-moduleContent5861345">
+
+              <a id="navigationBottom-moduleLink5861345" class=" " href="http://feeds.feedburner.com/HighScalability" ><span>RSS</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper18971493">
+
+    <div id="navigationBottom-moduleContent18971493">
+
+              <a id="navigationBottom-moduleLink18971493" class=" " href="https://twitter.com/highscal" ><span>Twitter</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper18971509">
+
+    <div id="navigationBottom-moduleContent18971509">
+
+              <a id="navigationBottom-moduleLink18971509" class=" " href="http://www.facebook.com/pages/Highscalability/441249225918692" ><span>Facebook</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19028422">
+
+    <div id="navigationBottom-moduleContent19028422">
+
+              <a id="navigationBottom-moduleLink19028422" class=" " href="https://plus.google.com/b/116966782604206517628/116966782604206517628/posts" ><span>G+</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper4847294">
+
+    <div id="navigationBottom-moduleContent4847294">
+
+              <a id="navigationBottom-moduleLink4847294" class=" " href="/all-posts/" ><span>All Posts</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19700860">
+
+    <div id="navigationBottom-moduleContent19700860">
+
+              <a id="navigationBottom-moduleLink19700860" class="offsite-link " href="https://www.amazon.com/shop/highscal" onclick="this.target='new';"><span>Amazon Store</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  </ul><br class="clearer"/></div></div>
+
+
+  </div></div>
+  
+  
+
+  
+
+  
+  <div id="pageBodyWrapper"><div id="pageBody">
+  
+  <div id="sidebar1Wrapper" class="verticalNavigationBarWrapper"><div class="iw-vnb1"><div class="iw-vnb2"><div class="iw-vnb3"><div class="iw-vnb4"><div id="sidebar1" class="verticalNavigationBar">
+
+  
+
+    <div id="sectionContent2251797" class="sectionWrapper  "><div class="iw-s1"><div class="iw-s2"><div class="iw-s3"><div class="iw-s4"><div class="section">
+
+      
+
+      
+        
+          <div class="content-passthrough"><div id="moduleContentWrapper4876569" class="widget-wrapper  widget-type-search"><div id="moduleContent4876569">
+
+
+<!-- <form method="get" action="/display/Search">
+	<div class="search-form-pt-wrapper">
+	  <div class="search-form-pt">
+	    <span class="queryFieldWrapper"><input type="text" class="text queryField" name="searchQuery" value=""/></span>
+	    <span class="queryButtonWrapper"><input type="submit" class="button queryButton" value="&raquo;"/></span>
+	    <input type="hidden" name="moduleId" value="4876569"/>
+	    <br class="clearer"/>
+	  </div>
+	</div>
+</form> -->
+
+<form method="get" action="/display/Search">
+	<input type="hidden" name="moduleId" value="4876569"/>
+	<table class="search-form-pt-wrapper search-form-table" border="0" cellpadding="0" cellspacing="0">
+		<tr class="search-form-pt search-form-row">
+			<td class="queryFieldCell search-form-cell">
+				<span class="queryFieldWrapper">
+					<input type="text" class="text queryField" name="searchQuery" value=""/>
+				</span>
+			</td>
+			<td class="queryButtonCell search-form-cell">
+				<span class="queryButtonWrapper">
+					<input type="submit" class="button queryButton" value="&rarr;"/>
+				</span>
+			</td>
+		</tr>
+	</table> 
+</form></div></div></div>
+
+        
+
+      
+  
+    </div></div></div></div></div></div>
+
+  
+
+    <div id="sectionContent2191792" class="sectionWrapper promotedContainer "><div class="iw-s1"><div class="iw-s2"><div class="iw-s3"><div class="iw-s4"><div class="section">
+
+       <div class="caption">Top</div> 
+
+      
+        
+          <ul class="content-navigation">
+  <li class="module   " id="moduleContentWrapper4867632">
+
+    <div id="moduleContent4867632">
+
+              <a id="moduleLink4867632" class=" " href="/" ><span>Home</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper5498762">
+
+    <div id="moduleContent5498762">
+
+              <a id="moduleLink5498762" class="offsite-link " href="https://smile.amazon.com/Explain-Cloud-Like-Im-10-ebook/dp/B0765C4SNR" onclick="this.target='new';"><span>Explain the Cloud Like I&#39;m 10</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper15178301">
+
+    <div id="moduleContent15178301">
+
+              <a id="moduleLink15178301" class=" " href="/all-time-favorites/" ><span>All Time Favorites</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper4850438">
+
+    <div id="moduleContent4850438">
+
+              <a id="moduleLink4850438" class=" " href="/blog/category/example" ><span>Real Life Architectures</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper10576114">
+
+    <div id="moduleContent10576114">
+
+              <a id="moduleLink10576114" class=" " href="http://highscalability.squarespace.com/blog/category/strategy" ><span>Strategies</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper19697312">
+
+    <div id="moduleContent19697312">
+
+              <a id="moduleLink19697312" class="offsite-link " href="https://www.patreon.com/toddhoff" onclick="this.target='new';"><span>Support in Patreon</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper4850431">
+
+    <div id="moduleContent4850431">
+
+              <a id="moduleLink4850431" class=" " href="/advertising/" ><span>Advertising</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper4850400">
+
+    <div id="moduleContent4850400">
+
+              <a id="moduleLink4850400" class=" " href="/start-here/" ><span>Start Here</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper4850388">
+
+    <div id="moduleContent4850388">
+
+              <a id="moduleLink4850388" class=" " href="/contact/" ><span>contact</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper5861345">
+
+    <div id="moduleContent5861345">
+
+              <a id="moduleLink5861345" class=" " href="http://feeds.feedburner.com/HighScalability" ><span>RSS</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper18971493">
+
+    <div id="moduleContent18971493">
+
+              <a id="moduleLink18971493" class=" " href="https://twitter.com/highscal" ><span>Twitter</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper18971509">
+
+    <div id="moduleContent18971509">
+
+              <a id="moduleLink18971509" class=" " href="http://www.facebook.com/pages/Highscalability/441249225918692" ><span>Facebook</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper19028422">
+
+    <div id="moduleContent19028422">
+
+              <a id="moduleLink19028422" class=" " href="https://plus.google.com/b/116966782604206517628/116966782604206517628/posts" ><span>G+</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper4847294">
+
+    <div id="moduleContent4847294">
+
+              <a id="moduleLink4847294" class=" " href="/all-posts/" ><span>All Posts</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper19700860">
+
+    <div id="moduleContent19700860">
+
+              <a id="moduleLink19700860" class="offsite-link " href="https://www.amazon.com/shop/highscal" onclick="this.target='new';"><span>Amazon Store</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+</ul>
+
+        
+
+      
+  
+    </div></div></div></div></div></div>
+
+  
+
+    <div id="sectionContent2248744" class="sectionWrapper  "><div class="iw-s1"><div class="iw-s2"><div class="iw-s3"><div class="iw-s4"><div class="section">
+
+       <div class="caption">Recent Posts</div> 
+
+      
+        
+          <div class="content-passthrough"><div id="moduleContentWrapper4867742" class="widget-wrapper  widget-type-journalarchive"><div id="moduleContent4867742">
+
+
+
+
+
+
+
+  <ul class="archive-item-list-pt">
+     <li><a href="/blog/2020/6/15/how-triplelift-built-an-adtech-data-pipeline-processing-bill.html">How TripleLift Built an Adtech Data Pipeline Processing Billions of Events Per Day</a></li>  <li><a href="/blog/2020/6/11/sponsored-post-stackhawk-interviewcampio-educative-triplebyt.html">Sponsored Post: StackHawk, InterviewCamp.io, Educative, Triplebyte, Stream, Fauna</a></li>  <li><a href="/blog/2020/5/26/sponsored-post-interviewcampio-scrapinghub-fauna-sisu-educat.html">Sponsored Post: InterviewCamp.io, Scrapinghub, Fauna, Sisu, Educative, PA File Sight, Etleap, Triplebyte, Stream</a></li>  <li><a href="/blog/2020/5/14/a-short-on-how-zoom-works.html">A Short on How Zoom Works</a></li>  <li><a href="/blog/2020/5/14/stuff-the-internet-says-on-scalability-for-may-14th-2020.html">Stuff The Internet Says On Scalability For May 14th, 2020</a></li>  <li><a href="/blog/2020/5/12/sponsored-post-interviewcampio-scrapinghub-fauna-sisu-educat.html">Sponsored Post: InterviewCamp.io, Scrapinghub, Fauna, Sisu, Educative, PA File Sight, Etleap, Triplebyte, Stream</a></li>  <li><a href="/blog/2020/5/11/reducing-your-database-hosting-costs-digitalocean-vs-aws-vs.html">Reducing Your Database Hosting Costs: DigitalOcean vs. AWS vs. Azure</a></li>  <li><a href="/blog/2020/5/4/part-2-the-dynamodb-book-an-interview-with-alex-debrie-on-hi.html">Part 2: The DynamoDB Book: An Interview With Alex DeBrie On His New Book</a></li>  <li><a href="/blog/2020/4/28/post-interviewcampio-scrapinghub-fauna-sisu-educative-pa-fil.html">Post: InterviewCamp.io, Scrapinghub, Fauna, Sisu, Educative, PA File Sight, Etleap, Triplebyte, Stream</a></li>  <li><a href="/blog/2020/4/27/the-dynamodb-book-an-interview-with-alex-debrie-on-his-new-b.html">The DynamoDB Book: An Interview With Alex DeBrie On His New Book</a></li> 
+  </ul>
+
+
+
+</div></div></div>
+
+        
+
+      
+  
+    </div></div></div></div></div></div>
+
+  
+
+  
+
+</div></div></div></div></div></div>
+  <div id="sidebar2Wrapper" class="verticalNavigationBarWrapper"><div class="iw-vnb1"><div class="iw-vnb2"><div class="iw-vnb3"><div class="iw-vnb4"><div id="sidebar2" class="verticalNavigationBar">
+
+  
+
+    <div id="sectionContent2249261" class="sectionWrapper  "><div class="iw-s1"><div class="iw-s2"><div class="iw-s3"><div class="iw-s4"><div class="section">
+
+      
+
+      
+        
+          <div class="content-passthrough"><div id="moduleContentWrapper4869210" class="widget-wrapper  widget-type-page"><div id="moduleContent4869210">
+
+
+
+
+
+  <a href="https://www.stackhawk.com/product?utm_source=High%20Scalability">
+     <img width="125" height="125" src="/storage/Add AppSec Testing to Your CI Pipeline - B - 125x125.jpg">
+  </a>
+  
+  <a href="https://logdna.com/?utm_campaign=Build-A-Comm&utm_source=sponsorship%20&utm_medium=highscalability%20">
+     <img width="125" height="125" src="/storage/125x125-LogDNA-Ad-HighScalability-Sponsorship-02.png">
+  </a>
+  
+  
+  <a href="https://ipdata.co/?utm_campaign=highscalability&utm_medium=ad&utm_source=highscalability">
+     <img width="125" height="125" src="/storage/highscalability-ad-125x125-white 2.png">
+  </a>
+  
+  <a href="http://interviewcamp.io/">
+     <img width="125" height="125" alt="coding interview preparation course" src="/storage/interviewcamp125.png">
+  </a>
+  
+  <a href="https://www.educative.io/aws-highscalability">
+     <img width="125" height="125" alt="coding interview preparation course" 
+  src="/storage/highscalability ad.png">
+  </a>
+  
+  <a href="https://dashboard.fauna.com/accounts/register?utm_source=HighScalability&utm_medium=paid-advertising&utm_campaign=Fall19Ads-HighScalability">
+     <img src="/storage/125x125-javascript.png">
+  </a>
+  
+  <a href=" https://www.educative.io/scalability-system-design">
+     <img src="/storage/scalability-track-highscalability.png">
+  </a>
+  
+  <a href="https://getstream.io/chat/?utm_campaign=ongoing_sponsorship&utm_medium=non_cpc_promotion&utm_source=highscalabilitypromoted">
+     <img width="125" height="125" src="/storage/stream.png">
+  </a>
+  
+  <a href="https://triplebyte.com/?ref=hs_apr18_c1">
+    <img src="/storage/triplebyte125.png">
+  </a>
+  
+  
+  <a href="/advertising">advertise</A>
+  </center>
+</div></div></div>
+
+        
+
+      
+  
+    </div></div></div></div></div></div>
+
+  
+
+    <div id="sectionContent2191793" class="sectionWrapper  "><div class="iw-s1"><div class="iw-s2"><div class="iw-s3"><div class="iw-s4"><div class="section">
+
+      
+
+      
+        
+          <ul class="content-navigation">
+  <li class="module   " id="moduleContentWrapper4708561">
+
+    <div id="moduleContent4708561">
+
+              <a id="moduleLink4708561" class=" " href="/login/?returnUrl=%2Fblog%2F2008%2F12%2F20%2F" ><span>Login</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper4869034">
+
+    <div id="moduleContent4869034">
+
+              <a id="moduleLink4869034" class=" " href="/register/" ><span>Register</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+</ul>
+
+        
+
+      
+  
+    </div></div></div></div></div></div>
+
+  
+
+    <div id="sectionContent2248734" class="sectionWrapper  "><div class="iw-s1"><div class="iw-s2"><div class="iw-s3"><div class="iw-s4"><div class="section">
+
+      
+
+      
+        
+          <div class="content-passthrough"><div id="moduleContentWrapper4867711" class="widget-wrapper  widget-type-rss-syndicate"><div id="moduleContent4867711">
+
+
+
+  <ul class="feed-list-inline">
+    
+          <li><a href="http://feeds.feedburner.com/HighScalability" class="feed-link">High Scalability RSS</a></li>
+        
+          <li><a href="http://highscalability.com/blog/rss-comments.xml" class="feed-link">High Scalability Comments RSS</a></li>
+        
+  </ul>
+
+</div></div></div>
+
+        
+
+      
+  
+    </div></div></div></div></div></div>
+
+  
+
+  
+
+</div></div></div></div></div></div>
+  
+  
+
+  <div id="contentWrapper"><div id="content">
+    
+    
+
+
+  <h2 class="document-title">Page Not Found</h2>
+
+  <div class="body">
+
+  <p>The page <strong>/blog/2008/12/20/ </strong> could not be located on this website.</p>
+
+  <p>We recommend using the navigation bar to get back on track within our site.  If you feel you have reached this page in error, please contact a site operator.  Thank you!</p>
+
+  <p><strong><a href="http://highscalability.com/">Return to the Front Page &raquo;</a></strong></p>
+
+  </div>
+
+
+</div></div> <!-- Content -->
+  
+    
+  
+    </div></div> <!-- Page Body -->
+
+    
+    
+    <div id="pageFooterWrapper"><div id="pageFooter">
+  
+              Copyright &copy; 2018, Todd Hoff.  All rights reserved.
+      
+  
+      
+  
+    </div></div>
+  
+  </div></div> <!-- Canvas -->
+  
+   
+
+
+  <div class="clearer" id="bodyClearer"></div>
+
+  
+
+
+
+</body>
+</html>
